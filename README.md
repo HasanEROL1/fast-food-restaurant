@@ -4,5 +4,5 @@ Bu proje, fast food restoranı için bir web uygulamasıdır. Kullanıcılar res
 <h2>Özellikler</h2>
 <ul><li>Menü görüntüleme</li>
 <li>Sipariş oluşturma</li>
-<li></li>Kullanıcı dostu arayüz</li>
-<li></li>Responsive tasarım</li></ul>
+<li>Kullanıcı dostu arayüz</li>
+<li>Responsive tasarım</li></ul>
